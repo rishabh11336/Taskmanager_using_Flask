@@ -1,5 +1,5 @@
 # Taskmanager_using_Flask
- Flask webapp\
+ Flask webapp
  <hr>
 Run Command in terminal: python app.py\
 Then Go to URL: localhost:5000
